@@ -1,0 +1,16 @@
+@import "../scss/preloader/preloader";
+
+////Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Libre+Baskerville:wght@400;700&family=Poppins:wght@400;500&display=swap");
+
+/// Reset stylesheet
+@import "../scss/reset/reset";
+
+/////Main styling
+@import "../scss/main/main";
+
+/// Responsive Media Queries
+@import "../scss/responsive/responsive";
+
+/// Custom Cursor ///
+@import "../scss/cursor/cursor";
