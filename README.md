@@ -8,4 +8,4 @@
 
 The design is live on [Julia Portfolio Design](https://julia-portfolio.netlify.app/)
 
-Learn how to implement the custom cursor [here](https://hashnode.dev)
+Learn how to implement the custom cursor [here](https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience)
